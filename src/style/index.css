@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+}
+header {
+  padding: 5% 5%;
+  background-color: orange;
+}
+
+.icon {
+  width: 25%;
+  border-radius: 50%;
+  margin: 0 auto;
+  display: inherit;
+}
+.name {
+  text-align: center;
+  font-size: 200%
+}
+
+.btn {
+  width:  100px;
+  height: 100px;
+  border: solid;
+  border-width: 2px;
+  border-color: black;
+  border-radius: 50%;
+  margin: 10px auto;
+  text-align: center;
+}
+
+.btn:active {
+  border-width: 5px;
+}
+
+.fa-bell {
+  margin: 25%;
+}
